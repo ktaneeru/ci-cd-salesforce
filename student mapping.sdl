@@ -1,0 +1,15 @@
+#Mapping values
+#Sat Oct 15 22:01:11 IST 2022
+OWNERID=OwnerId
+GENDER__C=Gender__c
+MOBILE_NO__C=Mobile_No__c
+SECONDARY_EMAIL__C=Secondary_Email__c
+ADDRESS1__C=Address1__c
+LAST_NAME__C=Last_Name__c
+PHONE_NO__C=Phone_No__c
+RECORDTYPEID=RecordTypeId
+COURSE_NAME__C=Course_Name__c
+DOB__C=DOB__c
+FIRST_NAME__C=First_Name__c
+PRIMARY_EMAIL__C=Primary_Email__c
+ADDRESS2__C=Address2__c
