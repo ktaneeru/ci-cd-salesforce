@@ -4,7 +4,7 @@ public class MasterParentTriggerHandler {
             if (String.isBlank(mst.City_Name__c)) {
                 mst.City_Name__c.addError('City name cannot be blanks');
             }    
-            if (mst.City_Name__c == 'Hyd' || mst.City_Name__c == 'Hyderabad' ) {
+            if (mst.City_Name__c == 'Hyd' || mst.City_Name__c == 'Hyderabad' || mst.City_Name__c.substring(0,3) =='Hyd' ) {
                 mst.City_Name__c = 'Hyderabad';
             }
         }
