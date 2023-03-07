@@ -14,7 +14,9 @@ public class FirstClass {
         System.debug('Test Class Long '+ k); 
     }
     Public static void method2(){
-    	integer l=1;
+    	integer l,m,n =10;
         System.debug('Test Class integer '+ l);
+        System.debug('Test Class integer '+ m);
+        System.debug('Test Class integer '+ n);
     }
 }
